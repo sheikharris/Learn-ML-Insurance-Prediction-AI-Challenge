@@ -36,7 +36,7 @@ plt.show()
 ```
 
   
-![output](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![output](https://github.com/sheikharris/Learn-ML-Insurance-Prediction-AI-Challenge/blob/main/image/imbalance.png)
 
 ## EDA 
 - Tried to find how every columns in dataset was affecting the target column and also the interrelationship between features.
@@ -54,7 +54,7 @@ plt.show()
 - Random Forest Classifier [worked well]
 
 ## Result
-![output](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![output](https://github.com/sheikharris/Learn-ML-Insurance-Prediction-AI-Challenge/blob/main/image/Insurance_Prediction.jpg)
 
 
 
